@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95491088?s=200&v=4" alt="BUCC logo" width="120" />
+  <img src="./assets/bucc-banner.png" alt="BUCC. Great BUCC!! Proud to belong." width="100%" />
 </p>
 
 ## Welcome to BUCC Dev
